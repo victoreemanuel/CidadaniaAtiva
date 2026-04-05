@@ -8,4 +8,4 @@ A aplicação contará com um back-end em Java com Spring Boot, um banco de dado
 
 A proposta está alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), contribuindo para cidades mais organizadas, participativas e eficientes por meio da tecnologia.
 
-Desenvolvido por Victor Santana e Gustavo Marques.
+Desenvolvido por Victor Santana, Gustavo Marques e Nicoly Senna.
