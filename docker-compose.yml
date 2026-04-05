@@ -1,0 +1,12 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_cidadania
+    restart: always
+    environment:
+      MYSQL_DATABASE: cidadania_db
+      MYSQL_ROOT_PASSWORD: admin
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
